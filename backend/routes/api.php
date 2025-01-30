@@ -2,7 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\UserControler;
+use App\Http\Controllers\UserController;
 
 //Test routes
 Route::get('/ping', function () {
